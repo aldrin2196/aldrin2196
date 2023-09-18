@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aldrin2196
 - 👀 I’m interested in learning more languages as I can
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C and Python
 - 💞️ I’m looking to collaborate on anyone
 - 📫 How to reach me aldrinlargo21@outlook.com
 
